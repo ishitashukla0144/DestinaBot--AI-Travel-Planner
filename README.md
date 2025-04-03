@@ -4,7 +4,7 @@ THE GENERATED WEBSITE'S FRONT PAGE (USING STREAMLIT)
 
 
 
-PREFERRED MODE OF TRANSPORT
+PREFERRED MODE OF TRANSPORT /n
 ![preferred mode of transport](https://github.com/user-attachments/assets/d5c1e76b-c7cb-40b1-9da8-9e271198e8d6)
 
 
